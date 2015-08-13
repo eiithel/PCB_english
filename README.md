@@ -30,7 +30,7 @@ _the video is not supported in this version._
 ![](https://github.com/eiithel/pcb/blob/master/Images/teensy.png)
 
 The control card is equipped by a Teensy ARM Cortex 32 bits.
-This module is suitable for `C/C++` programming and is compatible with code written for Arduino.
+This module is suitable for `C/C++` programming and is compatible with code written for __Arduino__.
 It is also featured by a large number of IO pinouts (_total of 34_). The Teensy is dedicated for three tasks :
 
 *  Communicate to the **Arietta** informations concerning the differents modules/sensors and to manage the different request 
