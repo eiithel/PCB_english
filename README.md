@@ -62,7 +62,7 @@ This is what permit the POLULU module based on a **TB6612FNG**.
 
 PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 
-### **RGB LEDs **
+### **RGB LEDs**
 
 In order to pilot 6 RGB LEDs, we need 6*3 = 18 channels.
 It is out of the question to use all the PWM **Teensy** outputs for that.
