@@ -67,7 +67,7 @@ PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 In order to pilot 6 RGB LEDs, we need 6*3 = 18 channels.
 It is out of the question to use all the PWM __Teensy__ outputs for that.
 The trick is to use a led's driver that will allow us to increase our number of avalaible PWM outputs. This driver is controlled by the i2C Bus and provids 16 PWM channels.
-The 2 missing channels will be provided by the **Teensy**.
+The 2 missing channels will be provided by the __Teensy__.
 The used component is the **TLC5940** (Texas Instrument).
 
 <img src="http://www.ti.com/graphics/folders/partimages/TLC5940.jpg" width="250" height="150"/>
@@ -89,7 +89,7 @@ It permits to obtain a 2.5 to 22V wide output regulate tension.
 The output voltage is set using a single external resistor.
 
 * 21 kohm for `5V`
-* 13kohm for `6V`
+* 13 kohm for `6V`
  
 >All the passive components of the circuit are _SMD_ in order to save space on the board.
 
