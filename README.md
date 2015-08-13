@@ -43,7 +43,7 @@ It is also featured by a large number of IO pinouts (_total of 34_). The __Teens
    * **Arietta**  
 ![](http://www.acmesystems.it/products/ARIETTA-G25.jpg)  
 
-The __Arietta__ is a little embedded linux system based on a very swift ARM9. _(400MHZ)_ it is equipped by a WIFI card, several GPIOs and a serial port connected to the **Teensy**.  This is the main part of the intelligence of the robot and is dedicated to several tasks :
+The __Arietta__ is a little embedded linux system based on a very swift ARM9. _(400MHZ)_ it is equipped by a WIFI module, several GPIOs and a serial port connected to the **Teensy**.  This is the main part of the intelligence of the robot and is dedicated to several tasks :
 
   * To receive and to send informations and requests to the Teensy
   * To manage all Moti's intelligence.(_This part can be developped on a computer before to be embedded on the card_).
