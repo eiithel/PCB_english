@@ -104,7 +104,7 @@ The output voltage is set using a single external resistor.
 
 ###__Bloc diagram__
 
-To resume, here is the electronical architecture of the prototype:
+To sum up, here is the electronical architecture of the prototype:
 
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/english.png)
 
