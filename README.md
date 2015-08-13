@@ -95,10 +95,10 @@ The output voltage is set using a single external resistor.
 
 ###**A little display of the card**
 
-![image](https://github.com/eiithel/pcb/blob/master/Images/IMAG0909.jpg)
+![image](https://github.com/eiithel/PCB_english/blob/master/Images/PCB_bottom.jpg)
 > <center>_Bottom face_</center>
 
-![image2](https://github.com/eiithel/pcb/blob/master/Images/IMAG0908.jpg)
+![image2](https://github.com/eiithel/PCB_english/blob/master/Images/pcb_top.jpg)
 ><center>_Top face_</center>
 
 
@@ -106,7 +106,7 @@ The output voltage is set using a single external resistor.
 
 To resume, here is the electronical architecture of the prototype:
 
-![](https://github.com/eiithel/pcb/blob/master/Images/Diagramme.png)
+![](https://github.com/eiithel/PCB_english/blob/master/Images/english.png)
 
 > Written by Eiithel.
 
