@@ -33,9 +33,9 @@ The control card is equipped by a Teensy ARM Cortex 32 bits.
 This module is suitable for `C/C++` programming and is compatible with code written for __Arduino__.
 It is also featured by a large number of IO pinouts (_total of 34_). The __Teensy__ is dedicated for three tasks :
 
-*  Communicate to the **Arietta** informations concerning the differents modules/sensors and to manage the different request 
+*  Communicate to the **Arietta** informations concerning the differents modules/sensors and to manage the different requests. 
 * To deploy 12 GPIO and one serial port.
-* To Manage enslavement motor calculations  
+* To Manage enslavement motor calculations.
 
 >The code written on this card hasn't to be modify. It involves to put in it the simpliest code possible.
 .
