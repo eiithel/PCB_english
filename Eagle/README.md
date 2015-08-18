@@ -12,8 +12,15 @@ Eagle files are located in the `Eagle` reportory.
 
 * `leka.sch` is the schematic, this file represents the circuit diagram.
 Parts are placed on many sheets and are connected together through ports.
+
+
+![](https://github.com/eiithel/PCB_english/blob/master/Images/sch.png)
+
+
 * `leka.brd` represents the "_physical_" PCB. In this file, traces are connected 
 besides the connections defined in the schematic.   
 The auto-route function didn't 
 have been used because the optimisation is worst with this method.  
 Take the time to realize our own routes.
+
+![](https://github.com/eiithel/PCB_english/blob/master/Images/board.png)
