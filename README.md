@@ -96,10 +96,11 @@ To sum up, here is the electronical architecture of the prototype:
 
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/english.png)
 
-
+--
 
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/view.jpg)
-><center>_Final view_</center>
+
+<center>_Final view_</center>
 
 
 > Written by Eiithel.
