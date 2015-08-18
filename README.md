@@ -77,6 +77,10 @@ This component can supply a max output current of 3A which is enough to run moto
  
 >All the passive components of the circuit are _SMD_ in order to save space on the board.
 
+__BE CAREFULL__
+
+There isn't protection against invertion polarity. When supplying the board take care to not invert anode and cathode. It would cause irreversible damages to the whole board.
+
 ###**A little display of the card**
 
 ![image](https://github.com/eiithel/PCB_english/blob/master/Images/PCB_bottom.jpg)
