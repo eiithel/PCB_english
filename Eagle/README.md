@@ -21,3 +21,7 @@ have been used because the optimisation is worst with this method.
 Take the time to realize your own routes. Mountage will be easier!
 
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/board.png)
+
+>If you order this PCB from a PCB manufacturer, DON'T ask for serigraphy.
+Indeed, there is a lot of "stop mask" issues during DRC checking and this problem can be simply resolved by deleting this layer.
+The explanation is that Serigraphy layer prints onto top or bottom copper.
