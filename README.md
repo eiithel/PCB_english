@@ -47,7 +47,8 @@ The __Arietta__ is a little embedded linux system based on a very swift ARM9. (_
 
 >An Arietta's i2C bus is available on the card to add eventual sensor.   
 
-A simple example of how to communicate beetween Arietta and Teensy : <https://github.com/eiithel/node_Serial>   
+A simple example of how to communicate beetween Arietta and Teensy :  
+<https://github.com/eiithel/node_Serial>   
 I used NodeJS for my tests.
 
 
