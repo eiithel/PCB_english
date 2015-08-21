@@ -64,6 +64,7 @@ In order to pilot 6 RGB LEDs, we need 6*3 = 18 channels. It is out of the questi
 
 ##**Supplies**
 
+The robot is designed with separate voltage regulators for digital and analog supply.   
 The control part of the architecture needs to be supplied by 5V. The motor and its components need 6V. The solution was to use DC/DC adjustable regulators in order to provide good tensions scales.
 
 **PTN78000WAH** _(Texas Instrument)_
