@@ -45,7 +45,10 @@ The __Arietta__ is a little embedded linux system based on a very swift ARM9. (_
   * To manage all Moti's intelligence. (_This part can be developped on a computer before being embedded on the card_).
   * Web server in order to develop applications permitting a certain number of clients to use its services (_Smartphones and tablets_).
 
->An Arietta's i2C bus is available on the card to add eventual sensor.
+>An Arietta's i2C bus is available on the card to add eventual sensor.   
+
+A simple example of how to communicate beetween Arietta and Teensy : <https://github.com/eiithel/node_Serial>   
+I used NodeJS for my tests.
 
 
 ###Motors
@@ -56,11 +59,15 @@ Motors are controlled by the control card but they need a dedicated integrated c
 
 PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 
+You can see a use case here: <https://github.com/eiithel/motors_test>
+
 ### **RGB LEDs**
 
 In order to pilot 6 RGB LEDs, we need 6*3 = 18 channels. It is out of the question to use all the PWM Teensy outputs for that. The trick is to use a LED's driver that will allow us to increase our number of avalaible PWM outputs. This driver is controlled by the i2C Bus and provids 16 PWM channels. The 2 missing channels will be provided by the Teensy itself. The used component is the __TLC5940__ (Texas Instrument).
 
 <img src="http://www.ti.com/graphics/folders/partimages/TLC5940.jpg" width="250" height="150"/>
+
+You can see a use case here: <https://github.com/eiithel/TLC4950_test>
  
 
 ##**Supplies**
