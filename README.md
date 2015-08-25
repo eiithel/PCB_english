@@ -94,7 +94,8 @@ This component can supply a max output current of 3A which is enough to run moto
 
 __BE CAREFULL__
 
-There isn't protection against invertion polarity. When supplying the board take care to not invert anode and cathode. It would cause irreversible damages to the whole board.
+This input is not protected against over and reverse voltages.  
+When supplying the board take care to not invert anode and cathode. It would cause irreversible damages to the whole board.
 
 ###**A little display of the card**
 
