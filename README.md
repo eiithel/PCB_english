@@ -107,6 +107,7 @@ To sum up, here is the electronical architecture of the prototype:
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/english.png)
 
 --
+And the final view with some little errors to correct:   
 
 ![](https://github.com/eiithel/PCB_english/blob/master/Images/topi.png)
 
