@@ -63,7 +63,7 @@ PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 You can see a use case here: <https://github.com/eiithel/motors_test>    
 
 >Be carefull. The **Teensy** is provided by 3 Timers.  
-Motors PWMs comes from **Timer0** but this timer is already used for **GSCLK** and **SIN** signals of the **TLC** due to pin sharing.  
+Motors PWMs come from **Timer0** but this timer is already used for **GSCLK** and **SIN** signals of the **TLC** due to pin sharing.  
 You have to replace this PWMs by Outputs provided by Timer2 which is not used.  
 This Timer is located under the **Teensy** (_pins 25 & 32_).
 
