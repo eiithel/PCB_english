@@ -1,8 +1,14 @@
-
-
-#**General**
-This card is the first linux embedded solution for the robot Moti. She is the transition between the first arduino based solution of the robot and the new hardware architecture based on a linux kernel. This will allow for a much expanded functionality. (_web API, video analysis, real time_) The software used for the card conception is `Eagle`. She has been realised at Usine IO, a physical playground for hardware engineers & designers.
-
+#**Introduction**  
+There is currently no cure for autism. Special educators often struggle to communicate with children
+sometimes immured in their silence. Autistic children can develop their language and facilitate their
+interpersonal interactions with the help of early childhood management and special education.
+According to recent studies, the robot is a relevant tool for reducing some autistic symptoms, such as
+joint attention deficit disorder. It also promotes generalization of skills.
+I proposed a new hardware and software architecture for Leka's first educational robot, as an extension
+to its control system. This new architecture is based on a Linux kernel.
+This expansion provides support for experimentation and verification of embedded Linux applications
+for a robotic base.
+Key words: robotics, autism, hardware conception, embedded linux
 
 ##**Functional requirements**
 
