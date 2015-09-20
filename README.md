@@ -1,14 +1,14 @@
 #**Introduction**  
 There is currently no cure for autism. Special educators often struggle to communicate with children
 sometimes immured in their silence. Autistic children can develop their language and facilitate their
-interpersonal interactions with the help of early childhood management and special education.
+interpersonal interactions with the help of early childhood management and special education.   
 According to recent studies, the robot is a relevant tool for reducing some autistic symptoms, such as
-joint attention deficit disorder. It also promotes generalization of skills.
+joint attention deficit disorder. It also promotes generalization of skills.   
 I proposed a new hardware and software architecture for Leka's first educational robot, as an extension
-to its control system. This new architecture is based on a Linux kernel.
+to its control system. This new architecture is based on a Linux kernel.   
 This expansion provides support for experimentation and verification of embedded Linux applications
-for a robotic base.
-Key words: robotics, autism, hardware conception, embedded linux
+for a robotic base.    
+**Key words**: robotics, autism, hardware conception, embedded linux
 
 ##**Functional requirements**
 
