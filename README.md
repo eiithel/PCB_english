@@ -128,5 +128,6 @@ And the final view with some little errors to correct:
 
 > Written by Eiithel.
 
+<a href="https://fr.linkedin.com/pub/ethel-marquer/84/151/485" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="Voir le profil LinkedIn de Ethel Marquer" style="vertical-align:middle;" border="0">&nbsp;Voir le profil de Ethel Marquer</span></a>
 
 
