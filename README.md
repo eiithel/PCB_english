@@ -62,7 +62,7 @@ I used NodeJS for my tests.
 
 Motors are controlled by the control card but they need a dedicated integrated circuit to supply them enough power in order to run correctly. This is what permits the POLULU module based on a __TB6612FNG__ chip.
 
-![toshiba](https://github.com/eiithel/PCB_english/blob/master/Images/toshiba.jpg=300x300)
+![toshiba](https://github.com/eiithel/PCB_english/blob/master/Images/toshiba.jpg =300x300)
 
 PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 
