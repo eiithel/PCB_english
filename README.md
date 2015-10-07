@@ -62,7 +62,7 @@ I used NodeJS for my tests.
 
 Motors are controlled by the control card but they need a dedicated integrated circuit to supply them enough power in order to run correctly. This is what permits the POLULU module based on a __TB6612FNG__ chip.
 
-<img src="http://www.robotshop.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/p/o/pololu-dual-dc-motor-driver-1a-4-5v-3-5v-tb6612fng-4_1.jpg" width="300" height="300"/>
+![toshiba](https://github.com/eiithel/PCB_english/blob/master/Images/toshiba.jpg)
 
 PWMs and logic (AIN, BIN) are provided by the **Teensy**.
 
